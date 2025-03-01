@@ -1,5 +1,5 @@
 # Add Admin IAM ROLE to EC2
-#vim .bashrc
+#vi .bashrc
 #export PATH=$PATH:/usr/local/bin/
 #source .bashrc
 
